@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bhagwati Steel Furniture</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #f4f7f6; color: #333; }
+        header { background-color: #003366; color: white; padding: 25px 10px; text-align: center; }
+        header h1 { margin: 0; font-size: 26px; font-weight: 700; letter-spacing: 1px; }
+        header p { margin: 8px 0 0; font-size: 15px; color: #dceefb; }
+        .container { max-width: 600px; margin: 20px auto; padding: 20px; background: white; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .cta-button { display: block; width: 100%; box-sizing: border-box; background-color: #28a745; color: white; text-align: center; padding: 16px; text-decoration: none; font-size: 18px; border-radius: 8px; font-weight: bold; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); transition: background 0.3s; }
+        .cta-button:hover { background-color: #218838; }
+        h2 { color: #003366; font-size: 20px; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; margin-top: 30px; margin-bottom: 15px; }
+        ul { padding-left: 20px; list-style-type: square; }
+        li { margin-bottom: 12px; font-size: 16px; line-height: 1.5; }
+        .contact-box { background-color: #e9ecef; padding: 15px; border-radius: 8px; border-left: 5px solid #003366; }
+        .contact-box p { margin: 8px 0; font-size: 16px; }
+        footer { text-align: center; padding: 25px; font-size: 13px; color: #777; margin-top: 20px; border-top: 1px solid #ddd; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Bhagwati Steel Furniture</h1>
+    <p>Proprietor: Shyam Charan</p>
+</header>
+
+<div class="container">
+    <a href="tel:7568118505" class="cta-button">📞 Call Now: 7568118505</a>
+
+    <div class="contact-box">
+        <p><strong>📍 Address:</strong> Bada Ganpati, Near Ganpati Ji Mandir</p>
+        <p><strong>📱 Mobile:</strong> 7568118505</p>
+    </div>
+
+    <h2>🛠️ Our Services</h2>
+    <ul>
+        <li>✅ All types of <strong>Steel Railing</strong></li>
+        <li>✅ Premium <strong>Steel Furniture</strong></li>
+        <li>✅ Staircase & Balcony Safety Railing</li>
+        <li>✅ Custom Steel Fabrication Works</li>
+        <li>✅ Durable & High-Quality Material</li>
+    </ul>
+
+    <h2>✨ Why Choose Us?</h2>
+    <ul>
+        <li>Best Quality Assurance</li>
+        <li>Reasonable Rates</li>
+        <li>Experienced Workmanship</li>
+    </ul>
+
+    <p style="text-align: center; margin-top: 30px; color: #555; font-style: italic;">
+        "We bring strength and style to your home."
+    </p>
+</div>
+
+<footer>
+    <p>&copy; 2025 Bhagwati Steel Furniture. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
